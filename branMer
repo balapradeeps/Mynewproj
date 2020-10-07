@@ -1,0 +1,8 @@
+Branch merging make some sence to us so we can change our file with normal pharagapare boz withoutr seeing
+this monotie noas i
+locked chance toplay iphone maded with conversional 
+java lan depamf mq
+
+git clone --filter=blob:none --no-checkout --depth 1 --sparse <project-url>
+cd <project>
+git sparse-checkout init --cone
